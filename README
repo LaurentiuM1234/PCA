@@ -1,0 +1,19 @@
+============================ DISCLAMER ====================================
+(*) all the images used to train and test the application were not mine
+and I have provided the source of them in the section "Bibliografie" of
+the "Documentatie.pdf" file.
+===========================================================================
+
+============================ DESCRIPTION ==================================
+(*) this project was realised with the following goals in mind:
+	- better understand basic linear algebra concepts.
+	- understand how PCA works and how it's able to classify images.
+	- test the performances of the PCA algorithm.
+
+(*) the project represents an implementation of the PCA algorithm used to
+classify a set of given images, using another set of images for training. 
+
+(*) more details regarding the project are provided in the
+"Documentatie.pdf" file (written only in romanian).
+===========================================================================
+
